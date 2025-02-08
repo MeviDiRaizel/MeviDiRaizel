@@ -26,13 +26,13 @@ Hello! I'm Jed<br><br>I'm a dedicated developer while having fun creating innova
   <img alt="github-snake" src="https://raw.githubusercontent.com/MeviDiRaizel/MeviDiRaizel/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D5CFF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect!" alt="Typing SVG" />
-</div>
-
----
 <p align="center">
   Thanks for stopping by! You are visitor number 👀
   <img src="https://komarev.com/ghpvc/?username=MeviDiRaizel&style=flat-square" alt="Visitor Count" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D5CFF&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!;Feel+free+to+connect!" alt="Typing SVG" />
+</div>
