@@ -20,11 +20,7 @@ Hello! I'm Jed<br><br>I'm a dedicated developer while having fun creating innova
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MeviDiRaizel/MeviDiRaizel/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MeviDiRaizel/MeviDiRaizel/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MeviDiRaizel/MeviDiRaizel/output/github-snake.svg" />
-</picture>
+
 
 <p align="center">
   Thanks for stopping by! You are visitor number 👀
