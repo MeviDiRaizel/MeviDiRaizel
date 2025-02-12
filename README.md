@@ -15,9 +15,6 @@ Hello! I'm Jed<br><br>I'm a dedicated developer while having fun creating innova
 <div align="center">
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeviDiRaizel&theme=nightowl&hide_border=false&count_private=true" /><br/>
-</div>
-
 <br/>
 
 <picture>
