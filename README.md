@@ -5,6 +5,14 @@
 # About Me:
 Hello! I'm Jed<br><br>I'm a dedicated developer while having fun creating innovative and practical solutions.
 
+# Now Playing 🟢
+<p align="center">
+  <a href="https://open.spotify.com/user/hqbccjv1jazgev9cmdyisv8nf">
+   <img src="https://spotify-now-playing-one-beta.vercel.app/api/spotify?border_color=ffffff">
+  </a>
+</p>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/heimeiguidiaoling) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mevidiraizel@gmail.com)
 
