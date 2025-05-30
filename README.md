@@ -27,8 +27,6 @@ Hello! I'm Jed<br><br>I'm a dedicated developer while having fun creating innova
     </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=x4plore)](https://git.io/streak-stats)
-
 
 <p align="center">
   Thanks for stopping by! You are visitor number 👀
